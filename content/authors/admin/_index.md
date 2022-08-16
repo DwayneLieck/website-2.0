@@ -1,39 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dwayne Lieck
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Freiburg
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dwayne Lieck is a researcher with a passion for improving psychological methods. To this end, he continues to work on multiple independent and collaborative psychology and metascience research projects. Dwayne is committed to inclusive and transparent science. In addition to implementing open science practices in his own research, he strives to advance Open Science through the development of community projects (e.g. CRIC) and involvement in Big Team Science (e.g. SCORE).
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Psychological Methods
+  - Meta-Science
+  - Open Science 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  
+    - course: M.Sc. in Psychology
+      institution: University of Freiburg
+      year: 2020 - present
+    - course: B.Sc. in Psychology
+      institution: Fresenius University of Applied Sciences
+      year: 2017 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,26 +40,24 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:dwayne.lieck@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/dwayne_lieck?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.de/citations?user=jcJ_9GcAAAAJ&hl=de
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/DwayneLieck
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+#- icon: cv
+#icon_pack: ai
+#link  'uploads/resume.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,8 +66,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dwayne Lieck is a researcher with a passion for improving psychological methods. To this end, he continues to work on multiple independent and collaborative psychology and metascience research projects. Dwayne is committed to inclusive and transparent science. In addition to implementing open science practices in his own research, he strives to advance Open Science through the development of community projects (e.g. CRIC) and involvement in Big Team Science (e.g. SCORE).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/Users/dwaynelieck/Desktop/Website/website-2.0/static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
