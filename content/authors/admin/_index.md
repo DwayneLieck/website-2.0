@@ -20,6 +20,7 @@ bio: Dwayne Lieck is a researcher with a passion for improving psychological met
 interests:
   - Psychological Methods
   - Meta-Science
+  - Social Psychology
   - Open Science 
 
 # Education to show in About widget
@@ -68,4 +69,4 @@ highlight_name: true
 
 Dwayne Lieck is a researcher with a passion for improving psychological methods. To this end, he continues to work on multiple independent and collaborative psychology and metascience research projects. Dwayne is committed to inclusive and transparent science. In addition to implementing open science practices in his own research, he strives to advance Open Science through the development of community projects (e.g. CRIC) and involvement in Big Team Science (e.g. SCORE).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/Users/dwaynelieck/Desktop/Website/website-2.0/static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1Qph22QcU90dqS5LnokOhYt3gvPsRUf9b/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.

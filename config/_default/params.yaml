@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Forest
-  theme_night: Forest
-  font: Forest
+  theme_day: Ocean
+  theme_night: Ocean
+  font: Ocean
   font_size: L
 
 # SEO
@@ -35,15 +35,15 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
-    show_search: true
+    show_day_night: false
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2022 Dwayne Lieck.'
     license:
       enable: true
       allow_derivatives: false
